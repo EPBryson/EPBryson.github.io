@@ -3,7 +3,7 @@ body {
     font-family:Arial, Helvetica, sans-serif
 }
 
-title {
+head {
     color:#3F688C;
 }
 
@@ -38,6 +38,11 @@ hl  {
     color: #C4F2EE;
     text-align:center;
 }
+
+h1:hover {
+    color:#79BAF2;
+}
+
 h2 {
     text-align:center;
 }
